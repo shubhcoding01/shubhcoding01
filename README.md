@@ -2,7 +2,7 @@
 <a href="https://ibb.co/nfdtxqZ"><img align="right" alt="PNG" height="400px" src="https://i.ibb.co/3W6Qg5G/Screenshot-2024-08-27-002621.png" alt="Screenshot-2024-08-27-002621" border="0" /></a>
 
 
-- 👨‍💻 I’m currently working as * Freelancer ** as a **Software Engineer**
+- 👨‍💻 I’m currently working as * Freelancer ** as a **Web-Developer**
 - 📚 I’m pursuing **BCA**
 - 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact : I also do Photo/Video Editing 🖌️
