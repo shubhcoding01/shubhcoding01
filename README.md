@@ -6,8 +6,8 @@
 - 📚 I’m pursuing **BCA**
 - 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact : I also do Photo/Video Editing 🖌️
+
 ##
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=shubhcoding01&theme=react-dark&hide_border=true&area=true) <hr>
 
 ### Languages and Tools 🛠 
 
@@ -54,11 +54,19 @@
 
 ##
 
+
+
 ### Contact 📝
 
 <a href="https://www.linkedin.com/in/shubhamrajshubh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/clara-garcia-9845891b8/)</a>
 <a href="mailto:shubh.cout@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=shubhcoding01&theme=react-dark&hide_border=true&area=true) <hr>
 
+<div align="center">
+  
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/shubhcoding01)
+
+</div>
 <br />
 
