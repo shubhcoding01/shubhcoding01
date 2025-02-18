@@ -82,7 +82,7 @@
 <div align="center">
 
 # ✨ Thanks for visiting my GitHub! 🚀
-Explore my projects, check out my code, and feel free to reach out if you’d like to collaborate. Happy coding! 👨‍💻✨
+### Explore my projects, check out my code, and feel free to reach out if you’d like to collaborate. Happy coding! 👨‍💻✨
   
 [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/shubhcoding01)
 
