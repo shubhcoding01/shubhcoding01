@@ -64,6 +64,11 @@
 <a href="https://www.instagram.com/shubh1.yadav/"> ![LinkedIn](https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shubh1.yadav/)</a>
 <a href="https://www.youtube.com/@Shubh_Coding"> ![LinkedIn](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@Shubh_Coding)</a>
 
+##
+
+<h3 align="center">👨‍🏫 My Stats</h3>
+
+##
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=shubhcoding01&theme=react-dark&hide_border=true&area=true) <hr>
 
 <div align="center">
