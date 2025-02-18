@@ -69,7 +69,7 @@
 <h3 align="center">👨‍🏫 My Stats</h3>
 <p align="center"><a href="https://github.com/shubhcoding01/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shubhcoding01&theme=matrix" alt="shubhcoding01" /></a> </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhcoding&show_icons=true&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhcoding01&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
 </p>
 
