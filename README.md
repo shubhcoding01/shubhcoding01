@@ -60,8 +60,11 @@
 
 <a href="https://www.linkedin.com/in/shubhamrajshubh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamrajshubh)</a>
 <a href="https://x.com/shubh__coding"> ![LinkedIn](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/shubh__coding)</a>
-<a href="https://www.instagram.com/shubh1.yadav/"> ![LinkedIn](https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shubh1.yadav/)</a>
 <a href="mailto:shubh.cout@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<a href="https://www.instagram.com/shubh1.yadav/"> ![LinkedIn](https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shubh1.yadav/)</a>
+
+<a href="https://www.youtube.com/@Shubh_Coding"> ![LinkedIn](https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shubh1.yadav/)</a>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=shubhcoding01&theme=react-dark&hide_border=true&area=true) <hr>
 
