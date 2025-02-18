@@ -58,7 +58,7 @@
 
 ### Contact 📝
 
-<a href="https://www.linkedin.com/in/shubhamrajshubh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/clara-garcia-9845891b8/)</a>
+<a href="https://www.linkedin.com/in/shubhamrajshubh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamrajshubh)</a>
 <a href="mailto:shubh.cout@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=shubhcoding01&theme=react-dark&hide_border=true&area=true) <hr>
