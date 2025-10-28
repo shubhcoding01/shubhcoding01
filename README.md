@@ -2,10 +2,17 @@
 <a href="https://ibb.co/rRzKRDzf"><img align="right" alt="PNG" height="400px" src="https://i.ibb.co/ycZmcHZB/Whats-App-Image-2025-02-18-at-00-06-15-9089fa6f.jpg" alt="Whats-App-Image-2025-02-18-at-00-06-15-9089fa6f" border="0" /></a>
 
 
-- 👨‍💻 I’m currently working as * Freelancer ** as a **Web-Developer**
-- 📚 I’m pursuing **BCA**
-- 🌱 I’m currently learning **MERN Stack**
-- ⚡ Fun fact : I also do Photo/Video Editing 🖌️
+- 👨‍💻 Freelance Full Stack Web Developer driven by a passion for building powerful, scalable, and user-centric web applications.
+
+- 🎓 BCA Graduate (2025) with a solid foundation in computer science and modern web technologies.
+
+- 🚀 Constantly pushing my limits with the MERN Stack and Spring Boot, crafting seamless front-to-back solutions.
+
+- 🛡️ Currently exploring the world of Cybersecurity, diving into ethical hacking, network security, and application defense — because great developers build and protect.
+
+- 💡 I love turning ideas into reality through clean code, creative logic, and intuitive design.
+
+- ⚡ Fun Fact: When I’m not coding, you’ll probably find me editing photos or videos — creativity keeps my code sharp 🎬
 
 ##
 
